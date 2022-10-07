@@ -176,6 +176,6 @@ public class PautaRoman_ProyectoU1 {
         System.out.println("La marca del balon es "+balon3.marca+" y el modelo es "+balon3.modelo+
                 " el numero del balon es "+balon3.nroBalon+" y se utiliza para jugar"+balon3.deporte);
         
-        
+        //
     }
 }
