@@ -7,7 +7,7 @@ package com.mycompany.pauta.roman_proyectou1;
 
 /**
  *
- * @author PC-2
+ * @author Pauta y Roman 
  */
 public class PautaRoman_ProyectoU1 {
 
