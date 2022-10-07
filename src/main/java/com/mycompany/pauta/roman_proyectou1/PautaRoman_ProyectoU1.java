@@ -153,6 +153,8 @@ public class PautaRoman_ProyectoU1 {
         System.out.println("La persona se llama "+persona2.nombre+" y su apellido es "+persona2.apellido+
                 " tiene una estatura de "+persona2.estatura+"m a los "+persona2.edad+" años");
         
+        
+        
         System.out.println("La persona se llama "+persona3.nombre+" y su apellido es "+persona3.apellido+
                 " tiene una estatura de "+persona3.estatura+"m a los "+persona3.edad+" años");
         
