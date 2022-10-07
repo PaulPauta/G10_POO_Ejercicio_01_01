@@ -121,60 +121,60 @@ public class PautaRoman_ProyectoU1 {
                 perro3.edad+ " años"+ " y es de la raza "+ perro3.raza);
         
         //Carros 
-        System.out.println("El carros es de la marca "+ carro1.marca 
-                + " ademas la placa de "+ carro1.placa + " es del año "+ carro1.año +
+        System.out.println("El carro es de la marca "+ carro1.marca 
+                + "  su placa  "+ carro1.placa + " es del año "+ carro1.año +
                         " y tiene un motor de "+ carro1.motor);
         
-        System.out.println("El carros es de la marca "+ carro2.marca 
-                + " ademas la placa de "+ carro2.placa + " es del año "+ carro2.año +
+        System.out.println("El carro es de la marca "+ carro2.marca 
+                + " su placa es "+ carro2.placa + " es del año "+ carro2.año +
                         " y tiene un motor de "+ carro2.motor);
         
-        System.out.println("El carros es de la marca "+ carro3.marca 
-                + " ademas la placa de "+ carro3.placa + " es del año "+ carro3.año +
+        System.out.println("El carro es de la marca "+ carro3.marca 
+                + " su placa es "+ carro3.placa + " es del año "+ carro3.año +
                         " y tiene un motor de "+ carro3.motor);
         
         //Computadoras
         System.out.println("El computador es de la marca "+computadora1.marca+
-                " es del modelo "+computadora1.modelo+" tiene una capacidad de almacenamiento"+
-                computadora1.almacenamiento+" el precio del computador es de "+computadora1.precio);
+                " es del modelo "+computadora1.modelo+" tiene una capacidad de almacenamiento de "+
+                computadora1.almacenamiento+" el precio del computador es de "+computadora1.precio+"$");
         
         System.out.println("El computador es de la marca "+computadora2.marca+
-                " es del modelo "+computadora2.modelo+" tiene una capacidad de almacenamiento"+
-                computadora2.almacenamiento+" el precio del computador es de "+computadora2.precio);
+                " es del modelo "+computadora2.modelo+" tiene una capacidad de almacenamiento de "+
+                computadora2.almacenamiento+" el precio del computador es de "+computadora2.precio+"$");
         
         System.out.println("El computador es de la marca "+computadora3.marca+
-                " es del modelo "+computadora3.modelo+" tiene una capacidad de almacenamiento"+
-                computadora3.almacenamiento+" el precio del computador es de "+computadora3.precio);
+                " es del modelo "+computadora3.modelo+" tiene una capacidad de almacenamiento de "+
+                computadora3.almacenamiento+" el precio del computador es de "+computadora3.precio+"$");
         
         //Personas 
         System.out.println("La persona se llama "+persona1.nombre+" y su apellido es "+persona1.apellido+
-                " tiene una estatura de "+persona1.estatura+" a los "+persona1.edad+" años");
+                " tiene una estatura de "+persona1.estatura+"m a los "+persona1.edad+" años");
         
         System.out.println("La persona se llama "+persona2.nombre+" y su apellido es "+persona2.apellido+
-                " tiene una estatura de "+persona2.estatura+" a los "+persona2.edad+" años");
+                " tiene una estatura de "+persona2.estatura+"m a los "+persona2.edad+" años");
         
         System.out.println("La persona se llama "+persona3.nombre+" y su apellido es "+persona3.apellido+
-                " tiene una estatura de "+persona3.estatura+" a los "+persona3.edad+" años");
+                " tiene una estatura de "+persona3.estatura+"m a los "+persona3.edad+" años");
         
         //Camiseta 
         System.out.println("La marca de la camiseta es "+camiseta1.marca+" y es de color "+camiseta1.color+
-                " y es de la talla "+camiseta1.talla+" tiene botones"+camiseta1.botones);
+                " y es de la talla "+camiseta1.talla+" tiene botones "+camiseta1.botones);
         
         System.out.println("La marca de la camiseta es "+camiseta2.marca+" y es de color "+camiseta2.color+
-                " y es de la talla "+camiseta2.talla+" tiene botones"+camiseta2.botones);
+                " y es de la talla "+camiseta2.talla+" tiene botones "+camiseta2.botones);
         
         System.out.println("La marca de la camiseta es "+camiseta3.marca+" y es de color "+camiseta3.color+
-                " y es de la talla "+camiseta3.talla+" tiene botones"+camiseta3.botones);
+                " y es de la talla "+camiseta3.talla+" tiene botones "+camiseta3.botones);
         
         //Balones 
         System.out.println("La marca del balon es "+balon1.marca+" y el modelo es "+balon1.modelo+
-                " el numero del balon es "+balon1.nroBalon+" y se utiliza para jugar"+balon1.deporte);
+                " el numero del balon es "+balon1.nroBalon+" y se utiliza para jugar "+balon1.deporte);
         
         System.out.println("La marca del balon es "+balon2.marca+" y el modelo es "+balon2.modelo+
-                " el numero del balon es "+balon2.nroBalon+" y se utiliza para jugar"+balon2.deporte);
+                " el numero del balon es "+balon2.nroBalon+" y se utiliza para jugar "+balon2.deporte);
                 
         System.out.println("La marca del balon es "+balon3.marca+" y el modelo es "+balon3.modelo+
-                " el numero del balon es "+balon3.nroBalon+" y se utiliza para jugar"+balon3.deporte);
+                " el numero del balon es "+balon3.nroBalon+" y se utiliza para jugar "+balon3.deporte);
         
         
     }
